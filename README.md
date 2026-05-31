@@ -2,7 +2,7 @@
 
 Convert Roman numerals to an integer.
 
-I wrote this as a simple coding excercise.
+I wrote this as a simple coding excercise and to practice TDD.
 
 ## How to use
 
